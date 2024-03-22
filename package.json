@@ -1,0 +1,30 @@
+{
+  "name": "totamest",
+  "version": "1.0.0",
+  "description": "Javascript interface for the occt library.",
+  "license": "LGPL-2.1",
+  "main": "./dist/occt-import-js.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlaiseReilly/totamest.git"
+  },
+  "keywords": [
+    "et",
+    "dignissimos",
+    "et",
+    "pariatur",
+    "eos"
+  ],
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {},
+  "browser": {
+    "fs": false
+  },
+  "author": "LaviniaRunolfsdottir",
+  "bugs": {
+    "url": "https://github.com/BlaiseReilly/totamest.git/issues"
+  }
+}
